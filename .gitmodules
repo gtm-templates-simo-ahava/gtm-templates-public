@@ -1,0 +1,30 @@
+[submodule "facebook-pixel"]
+	path = facebook-pixel
+	url = https://github.com/gtm-templates-simo-ahava/facebook-pixel.git
+[submodule "google-tag-manager-monitor"]
+	path = google-tag-manager-monitor
+	url = https://github.com/gtm-templates-simo-ahava/google-tag-manager-monitor.git
+[submodule "enhanced-ecommerce-object-builder"]
+	path = enhanced-ecommerce-object-builder
+	url = https://github.com/gtm-templates-simo-ahava/enhanced-ecommerce-object-builder.git
+[submodule "url-2-0"]
+	path = url-2-0
+	url = https://github.com/gtm-templates-simo-ahava/url-2-0.git
+[submodule "string-from-array-of-objects"]
+	path = string-from-array-of-objects
+	url = https://github.com/gtm-templates-simo-ahava/string-from-array-of-objects.git
+[submodule "adform-tracking-point"]
+	path = adform-tracking-point
+	url = https://github.com/gtm-templates-simo-ahava/adform-tracking-point.git
+[submodule "conductrics"]
+	path = conductrics
+	url = https://github.com/gtm-templates-simo-ahava/conductrics.git
+[submodule "appnexus"]
+	path = appnexus
+	url = https://github.com/gtm-templates-simo-ahava/appnexus.git
+[submodule "adservice"]
+	path = adservice
+	url = https://github.com/gtm-templates-simo-ahava/adservice.git
+[submodule "userpilot"]
+	path = userpilot
+	url = https://github.com/gtm-templates-simo-ahava/userpilot.git
