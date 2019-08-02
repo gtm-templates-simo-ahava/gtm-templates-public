@@ -31,3 +31,6 @@
 [submodule "adtraction"]
 	path = adtraction
 	url = https://github.com/gtm-templates-simo-ahava/adtraction.git
+[submodule "qualaroo"]
+	path = qualaroo
+	url = https://github.com/gtm-templates-simo-ahava/qualaroo.git
