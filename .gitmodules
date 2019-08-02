@@ -28,3 +28,6 @@
 [submodule "userpilot"]
 	path = userpilot
 	url = https://github.com/gtm-templates-simo-ahava/userpilot.git
+[submodule "adtraction"]
+	path = adtraction
+	url = https://github.com/gtm-templates-simo-ahava/adtraction.git
