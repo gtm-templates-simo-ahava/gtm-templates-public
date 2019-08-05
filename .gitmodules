@@ -34,3 +34,6 @@
 [submodule "qualaroo"]
 	path = qualaroo
 	url = https://github.com/gtm-templates-simo-ahava/qualaroo.git
+[submodule "taboola"]
+	path = taboola
+	url = https://github.com/gtm-templates-simo-ahava/taboola.git
