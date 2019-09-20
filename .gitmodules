@@ -37,3 +37,6 @@
 [submodule "taboola"]
 	path = taboola
 	url = https://github.com/gtm-templates-simo-ahava/taboola.git
+[submodule "user-distributor"]
+	path = user-distributor
+	url = ./user-distributor/
