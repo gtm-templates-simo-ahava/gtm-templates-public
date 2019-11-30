@@ -40,3 +40,6 @@
 [submodule "user-distributor"]
 	path = user-distributor
 	url = ./user-distributor/
+[submodule "persist-campaign-data"]
+	path = persist-campaign-data
+	url = https://github.com/gtm-templates-simo-ahava/persist-campaign-data.git
