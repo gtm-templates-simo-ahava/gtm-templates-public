@@ -49,3 +49,6 @@
 [submodule "cdnjs-hosted-libraries"]
 	path = cdnjs-hosted-libraries
 	url = git@github.com:gtm-templates-simo-ahava/cdnjs-hosted-libraries.git
+[submodule "youtube-iframe-api"]
+	path = youtube-iframe-api
+	url = https://github.com/gtm-templates-simo-ahava/youtube-iframe-api
