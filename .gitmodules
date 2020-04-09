@@ -52,3 +52,6 @@
 [submodule "youtube-iframe-api"]
 	path = youtube-iframe-api
 	url = https://github.com/gtm-templates-simo-ahava/youtube-iframe-api
+[submodule "facebook-customer-chat"]
+	path = facebook-customer-chat
+	url = https://github.com/gtm-templates-simo-ahava/facebook-customer-chat.git
