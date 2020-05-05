@@ -55,3 +55,9 @@
 [submodule "facebook-customer-chat"]
 	path = facebook-customer-chat
 	url = https://github.com/gtm-templates-simo-ahava/facebook-customer-chat.git
+[submodule "snowplow-analytics-settings"]
+	path = snowplow-analytics-settings
+	url = https://github.com/gtm-templates-simo-ahava/snowplow-analytics-settings.git
+[submodule "snowplow-analytics"]
+	path = snowplow-analytics
+	url = https://github.com/gtm-templates-simo-ahava/snowplow-analytics.git
