@@ -62,3 +62,7 @@
 	path = snowplow-analytics
 	url = https://github.com/gtm-templates-simo-ahava/snowplow-analytics.git
 
+[submodule "snowplow-gtm-custom-template"]
+	path = snowplow-gtm-custom-template
+	url = https://github.com/gtm-templates-simo-ahava/snowplow-gtm-custom-template.git
+
