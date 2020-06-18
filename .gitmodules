@@ -69,3 +69,6 @@
 [submodule "snowplow-gtm-custom-template-settings"]
 	path = snowplow-gtm-custom-template-settings
 	url = https://github.com/gtm-templates-simo-ahava/snowplow-gtm-custom-template-settings.git
+[submodule "facebook-pixel-server-side"]
+	path = facebook-pixel-server-side
+	url = https://github.com/gtm-templates-simo-ahava/facebook-pixel-server-side.git
