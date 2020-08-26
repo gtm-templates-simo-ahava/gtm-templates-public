@@ -78,3 +78,6 @@
 [submodule "facebook"]
 	path = facebook
 	url = https://github.com/gtm-templates-simo-ahava/facebook.git
+[submodule "advanced-universal-analytics"]
+	path = advanced-universal-analytics
+	url = https://github.com/gtm-templates-simo-ahava/advanced-universal-analytics.git
