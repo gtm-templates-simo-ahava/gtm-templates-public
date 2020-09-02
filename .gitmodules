@@ -81,3 +81,6 @@
 [submodule "advanced-universal-analytics"]
 	path = advanced-universal-analytics
 	url = https://github.com/gtm-templates-simo-ahava/advanced-universal-analytics.git
+[submodule "preflight-request"]
+	path = preflight-request
+	url = https://github.com/gtm-templates-simo-ahava/preflight-request.git
