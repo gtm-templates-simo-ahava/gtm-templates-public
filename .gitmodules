@@ -84,3 +84,9 @@
 [submodule "preflight-request"]
 	path = preflight-request
 	url = https://github.com/gtm-templates-simo-ahava/preflight-request.git
+[submodule "consent-mode"]
+	path = consent-mode
+	url = https://github.com/gtm-templates-simo-ahava/consent-mode.git
+[submodule "eec-products-ga4-items"]
+	path = eec-products-ga4-items
+	url = https://github.com/gtm-templates-simo-ahava/eec-products-ga4-items.git
