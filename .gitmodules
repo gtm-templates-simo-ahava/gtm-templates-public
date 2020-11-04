@@ -90,3 +90,6 @@
 [submodule "eec-products-ga4-items"]
 	path = eec-products-ga4-items
 	url = https://github.com/gtm-templates-simo-ahava/eec-products-ga4-items.git
+[submodule "catch-all-client"]
+	path = catch-all-client
+	url = https://github.com/gtm-templates-simo-ahava/catch-all-client.git
