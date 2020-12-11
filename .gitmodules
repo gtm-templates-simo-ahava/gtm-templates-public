@@ -93,3 +93,9 @@
 [submodule "catch-all-client"]
 	path = catch-all-client
 	url = https://github.com/gtm-templates-simo-ahava/catch-all-client.git
+[submodule "transaction-id-logger"]
+	path = transaction-id-logger
+	url = https://github.com/gtm-templates-simo-ahava/transaction-id-logger.git
+[submodule "transaction-id-reader"]
+	path = transaction-id-reader
+	url = https://github.com/gtm-templates-simo-ahava/transaction-id-reader.git
