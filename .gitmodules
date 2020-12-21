@@ -99,3 +99,6 @@
 [submodule "transaction-id-reader"]
 	path = transaction-id-reader
 	url = https://github.com/gtm-templates-simo-ahava/transaction-id-reader.git
+[submodule "gtag-get-api"]
+	path = gtag-get-api
+	url = https://github.com/gtm-templates-simo-ahava/gtag-get-api.git
