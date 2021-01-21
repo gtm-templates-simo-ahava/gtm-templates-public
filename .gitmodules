@@ -102,3 +102,6 @@
 [submodule "gtag-get-api"]
 	path = gtag-get-api
 	url = https://github.com/gtm-templates-simo-ahava/gtag-get-api.git
+[submodule "core-web-vitals"]
+	path = core-web-vitals
+	url = https://github.com/gtm-templates-simo-ahava/core-web-vitals.git
