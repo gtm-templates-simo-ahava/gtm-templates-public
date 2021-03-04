@@ -105,3 +105,15 @@
 [submodule "core-web-vitals"]
 	path = core-web-vitals
 	url = https://github.com/gtm-templates-simo-ahava/core-web-vitals.git
+[submodule "sha256-hasher"]
+	path = sha256-hasher
+	url = https://github.com/gtm-templates-simo-ahava/sha256-hasher.git
+[submodule "ip-geolocation-api-server"]
+	path = ip-geolocation-api-server
+	url = https://github.com/gtm-templates-simo-ahava/ip-geolocation-api-server.git
+[submodule "data-layer-picker"]
+	path = data-layer-picker
+	url = https://github.com/gtm-templates-simo-ahava/data-layer-picker.git
+[submodule "server-container-monitor"]
+	path = server-container-monitor
+	url = https://github.com/gtm-templates-simo-ahava/server-container-monitor.git
