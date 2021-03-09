@@ -117,3 +117,6 @@
 [submodule "server-container-monitor"]
 	path = server-container-monitor
 	url = https://github.com/gtm-templates-simo-ahava/server-container-monitor.git
+[submodule "recaptcha-v3"]
+	path = recaptcha-v3
+	url = https://github.com/gtm-templates-simo-ahava/recaptcha-v3.git
