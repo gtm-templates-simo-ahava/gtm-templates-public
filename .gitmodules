@@ -126,3 +126,6 @@
 [submodule "url-parser"]
 	path = url-parser
 	url = https://github.com/gtm-templates-simo-ahava/url-parser.git
+[submodule "gtm-loader"]
+	path = gtm-loader
+	url = https://github.com/gtm-templates-simo-ahava/gtm-loader.git
