@@ -129,3 +129,12 @@
 [submodule "gtm-loader"]
 	path = gtm-loader
 	url = https://github.com/gtm-templates-simo-ahava/gtm-loader.git
+[submodule "appcues"]
+	path = appcues
+	url = https://github.com/gtm-templates-simo-ahava/appcues
+[submodule "edtech-impact"]
+	path = edtech-impact
+	url = https://github.com/gtm-templates-simo-ahava/edtech-impact
+[submodule "response-headers"]
+	path = response-headers
+	url = https://github.com/gtm-templates-simo-ahava/response-headers
