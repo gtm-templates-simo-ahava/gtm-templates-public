@@ -120,9 +120,6 @@
 [submodule "recaptcha-v3"]
 	path = recaptcha-v3
 	url = https://github.com/gtm-templates-simo-ahava/recaptcha-v3.git
-[submodule "cookie-monster"]
-	path = cookie-monster
-	url = https://github.com/gtm-templates-simo-ahava/cookie-monster.git
 [submodule "url-parser"]
 	path = url-parser
 	url = https://github.com/gtm-templates-simo-ahava/url-parser.git
@@ -138,3 +135,6 @@
 [submodule "response-headers"]
 	path = response-headers
 	url = https://github.com/gtm-templates-simo-ahava/response-headers
+[submodule "cookie-monster"]
+	path = cookie-monster
+	url = git@github.com:gtm-templates-simo-ahava/cookie-monster.git
