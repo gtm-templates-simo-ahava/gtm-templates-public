@@ -138,3 +138,9 @@
 [submodule "cookie-monster"]
 	path = cookie-monster
 	url = git@github.com:gtm-templates-simo-ahava/cookie-monster.git
+[submodule "facebook-fbp-generator"]
+	path = facebook-fbp-generator
+	url = git@github.com:gtm-templates-simo-ahava/facebook-fbp-generator.git
+[submodule "facebook-fbc-generator"]
+	path = facebook-fbc-generator
+	url = git@github.com:gtm-templates-simo-ahava/facebook-fbc-generator.git
