@@ -144,3 +144,6 @@
 [submodule "facebook-fbc-generator"]
 	path = facebook-fbc-generator
 	url = git@github.com:gtm-templates-simo-ahava/facebook-fbc-generator.git
+[submodule "ip-geolocation-api-server-variable"]
+	path = ip-geolocation-api-server-variable
+	url = git@github.com:gtm-templates-simo-ahava/ip-geolocation-api-server-variable.git
