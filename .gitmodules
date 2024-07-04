@@ -147,3 +147,6 @@
 [submodule "ip-geolocation-api-server-variable"]
 	path = ip-geolocation-api-server-variable
 	url = git@github.com:gtm-templates-simo-ahava/ip-geolocation-api-server-variable.git
+[submodule "piwik-pro-visitor-id-generator"]
+	path = piwik-pro-visitor-id-generator
+	url = https://github.com/sahava/piwik-pro-visitor-id-generator.git
