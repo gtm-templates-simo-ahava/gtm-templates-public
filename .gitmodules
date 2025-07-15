@@ -150,3 +150,6 @@
 [submodule "piwik-pro-visitor-id-generator"]
 	path = piwik-pro-visitor-id-generator
 	url = https://github.com/sahava/piwik-pro-visitor-id-generator.git
+[submodule "request-body"]
+	path = request-body
+	url = https://github.com/gtm-templates-simo-ahava/request-body
